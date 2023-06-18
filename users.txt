@@ -1,0 +1,26 @@
+4 4
+
+1
+Pesho
+Ivanov
+Password123
+2
+
+2
+Kaloyan
+Peevski
+123Abc
+0
+
+3
+Ivan
+Petrov
+Ivan123
+0
+
+4
+Simeon
+Peev
+Simo123
+1
+
